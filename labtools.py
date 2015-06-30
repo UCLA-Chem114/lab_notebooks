@@ -1,4 +1,3 @@
-%matplotlib qt
 from pylab import *
 from scipy.optimize import curve_fit
 import pandas as pd
